@@ -1,2 +1,3 @@
 -- Teste 08h20
 -- Casa
+-- SELECT * FROM TESTE;
